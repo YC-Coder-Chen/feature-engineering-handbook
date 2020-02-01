@@ -20,6 +20,11 @@ Reference
 ------------
 All references have been recorded in each Jupyter Notebooks separately.
 
+Author
+------------
+[**@Yingxiang Chen**](https://github.com/YC-Coder-Chen)  
+[**@Zihan Yang**](https://github.com/echoyang48)
+
 Contact
 ------------
 Yingxiang Chen E-mail: chenyingxiang3526@gmail.com
