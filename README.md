@@ -1,15 +1,15 @@
 Feature-Engineering-Handbook
 ============
-Welcome! This repo provides an interactive and complete practical feature engineering tutorial based on Jupyter Notebook. It contains three parts including [Data Prepocessing](1.%20Data%20Preprocessing.ipynb), [Feature Selection](2.%20Feature%20Selection.ipynb) and [Dimension Reduction](3.%20Dimension%20Reduction.ipynb). Each part is demonstrated in one Jupyter Notebook. Since some feature selection algorithms such as Simulated Annealing and Genetic Algorithm lack complete implementation in python, we also provide implementations in python scripts ([Simulated Annealing](SA.py), [Genetic Algorithm](GA.py)) and covers them in our tutorial for your reference. 
+Welcome! This repo provides an interactive and complete practical feature engineering tutorial in Jupyter Notebook. It contains three parts: [Data Prepocessing](1.%20Data%20Preprocessing.ipynb), [Feature Selection](2.%20Feature%20Selection.ipynb) and [Dimension Reduction](3.%20Dimension%20Reduction.ipynb). Each part is demonstrated separately in one notebook. Since some feature selection algorithms such as Simulated Annealing and Genetic Algorithm lack complete implementation in python, we also provide corresponding python scripts ([Simulated Annealing](SA.py), [Genetic Algorithm](GA.py)) and cover them in our tutorial for your reference. 
 
 
 Brief Introduction
 ------------
-- [Notebook One](1.%20Data%20Preprocessing.ipynb): covers data preprocessing. It contains data preprocessing on static continuous features based on [scikit-learn](https://scikit-learn.org/stable/), data preprocessing on static categorical features based on [Category Encoders](https://contrib.scikit-learn.org/categorical-encoding/), and data preprocessing on time series features based on [Featuretools](https://www.featuretools.com/).  
+- [Notebook One](1.%20Data%20Preprocessing.ipynb) covers data preprocessing on static continuous features based on [scikit-learn](https://scikit-learn.org/stable/), on static categorical features based on [Category Encoders](https://contrib.scikit-learn.org/categorical-encoding/), and on time series features based on [Featuretools](https://www.featuretools.com/).  
   
-- [Notebook Two](2.%20Feature%20Selection.ipynb): covers univariate filter methods based on [scikit-learn](https://scikit-learn.org/stable/), multivariate filter methods based on [scikit-feature](http://featureselection.asu.edu/), deterministic wrapper methods based on [scikit-learn](https://scikit-learn.org/stable/), randomized wrapper methods based on our implementations in python scrips, and embedded methods based on [scikit-learn](https://scikit-learn.org/stable/).
+- [Notebook Two](2.%20Feature%20Selection.ipynb) covers feature selection including univariate filter methods based on [scikit-learn](https://scikit-learn.org/stable/), multivariate filter methods based on [scikit-feature](http://featureselection.asu.edu/), deterministic wrapper methods based on [scikit-learn](https://scikit-learn.org/stable/), randomized wrapper methods based on our implementations in python scrips, and embedded methods based on [scikit-learn](https://scikit-learn.org/stable/).
   
-- [Notebook Three](3.%20Dimension%20Reduction.ipynb): covers supervised and unsupervised dimension reduction based on [scikit-learn](https://scikit-learn.org/stable/).
+- [Notebook Three](3.%20Dimension%20Reduction.ipynb) covers supervised and unsupervised dimension reduction based on [scikit-learn](https://scikit-learn.org/stable/).
 
 
 Table of Content
@@ -18,7 +18,7 @@ Table of Content
 
 Reference
 ------------
-All references have been recorded in each Jupyter Notebooks separately.
+References have been included in each Jupyter Notebooks.
 
 Author
 ------------
@@ -28,3 +28,4 @@ Author
 Contact
 ------------
 Yingxiang Chen E-mail: chenyingxiang3526@gmail.com
+Zihan Yang E-mai: echoyang48@gmail.com
