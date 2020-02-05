@@ -27,5 +27,7 @@ Author
 
 Contact
 ------------
+**If there are any mistakes, please feel free to reach out and correct us!**  
+
 Yingxiang Chen E-mail: chenyingxiang3526@gmail.com  
 Zihan Yang E-mai: echoyang48@gmail.com
