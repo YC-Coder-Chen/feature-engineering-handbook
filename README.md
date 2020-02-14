@@ -18,7 +18,7 @@ Table of Content
 
 Reference
 ------------
-References have been included in each Jupyter Notebooks.
+References have been included in each Jupyter Notebook.
 
 Author
 ------------
