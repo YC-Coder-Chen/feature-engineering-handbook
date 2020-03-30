@@ -6,8 +6,12 @@ Simulated Annealing
 @author: chenyingxiang
 """
 
+import random
 import numpy as np
 from sklearn.model_selection import KFold
+
+random.seed()
+np.random.seed()
 
 class Simulated_Annealing(object):
     """
@@ -24,7 +28,7 @@ class Simulated_Annealing(object):
     max_perturb: float, default: 0.2
         The maximum percentage of perturbance genarated
          
-    alpha：float, default: 0.98
+    alpha: float, default: 0.98
         The decay coefficient of temperature
     
     k: float, default: 1.0

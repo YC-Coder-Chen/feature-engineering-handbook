@@ -6,11 +6,15 @@ Created on Mon Jan 27 11:18:30 2020
 @author: chenyingxiang
 """
 
+import random
 import numpy as np
 from tqdm import tqdm
 import random
 from sklearn.model_selection import KFold
 from deap import base, creator, tools, algorithms
+
+random.seed()
+np.random.seed()
 
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning) 
